@@ -17,18 +17,6 @@ class Solution:
       val = new_dict.popitem()
       val11, val12 = val
       ans.append(val11)
-    
-    
-    # max_val = max(new_dict.values())
-    # print(max_val)
-    
-    # for i in range(self.k):
-    #   ans = []
-    #   for key, value in list(new_dict.items()):
-    #     if max_val == value:
-    #       ans.append(key)
-    #       del new_dict[key]
-    #       return new_dict, ans
           
     return ans
 
