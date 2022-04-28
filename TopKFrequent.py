@@ -21,7 +21,11 @@ class Solution:
       val = new_dict.popitem()
       val11, val12 = val
       ans.append(val11)
+<<<<<<< HEAD
     
+=======
+          
+>>>>>>> e692e9d6163fe6ecfa510610931671bd154f934f
     return ans
 
   
